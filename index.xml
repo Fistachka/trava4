@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>trava4</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="Fistachka" repo="shapoklyak"/>
   <readme>
     <ru>d0b7e1e08e41f4425b5777e97f33e3d55ecc5b6fb7614a371d9decf00479dd4e</ru>
@@ -15,7 +15,7 @@
     <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
-    <video name="13.mp4" size="2407387" type="video/mp4" volume="0.5">f1bb1fa3ffda5fac82b0b96a7a9a9940470b8f5194b729455bdec09e45caec62</video>
+    <video name="32t.mp4" size="1825849" type="video/mp4" volume="0.5">a37c0f062f258afff8661069144620c920473dec8c462e4cb0c5b593203aa0a8</video>
     <notes>
       <note number="1" values="5" ticks="554" durationTicks="41" ppq="96" velocity="0.674"/>
       <note number="2" values="6" ticks="604" durationTicks="83" ppq="96" velocity="0.807"/>
@@ -29,7 +29,7 @@
     <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
-    <video name="14t.mp4" size="2074116" type="video/mp4" volume="0.5">439c8a91af13724161454d910943f0d9af878324f63d62757ac91bf28009447c</video>
+    <video name="33t.mp4" size="1770519" type="video/mp4" volume="0.5">baa6ea5dae39bb8c007e099cffb033801b827fd2b7eed92d61b975bcdbdfb1eb</video>
     <notes>
       <note number="1" values="5" ticks="97" durationTicks="41" ppq="96" velocity="0.689"/>
       <note number="2" values="6" ticks="144" durationTicks="93" ppq="96" velocity="0.75"/>
@@ -46,7 +46,7 @@
     <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
-    <video name="15t.mp4" size="2195553" type="video/mp4" volume="0.5">a0f0b1aa601b7fbd2ba3724f9a8ac93920c21b3c3e4edafebb4ec0d7fc961ba2</video>
+    <video name="34t.mp4" size="2236459" type="video/mp4" volume="0.5">2e653e27d979e6c727a90c239eeb113cfbbcb651c60087e7f5bcfaefb884743f</video>
     <notes>
       <note number="1" values="5" ticks="438" durationTicks="41" ppq="96" velocity="0.685"/>
       <note number="2" values="6" ticks="487" durationTicks="81" ppq="96" velocity="0.748"/>
@@ -66,7 +66,7 @@
     <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
-    <video name="16t.mp4" size="1908463" type="video/mp4" volume="0.5">1f23ffe812091e17a44c857e5b025912bed9ac7909d2e742c0bab8d8d09deea2</video>
+    <video name="35t.mp4" size="1325927" type="video/mp4" volume="0.5">6edb9f50c514bc3b476079345a9130e4705efb7d1f26961031a005bdc1cf9993</video>
     <notes>
       <note number="1" values="5" ticks="591" durationTicks="41" ppq="96" velocity="0.669"/>
       <note number="2" values="6" ticks="639" durationTicks="83" ppq="96" velocity="0.803"/>
@@ -80,7 +80,7 @@
     <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
-    <video name="17t.mp4" size="2156556" type="video/mp4" volume="0.5">3eeb534ab07d2e84c19e66e3b09c5974d259ce1ba66e1db67dfa2a555c63c3f7</video>
+    <video name="36t.mp4" size="1357360" type="video/mp4" volume="0.5">49696ef2541a3fc48aba378339c2c9ad9290f75223aadd5f3663b2f907004b2f</video>
     <notes>
       <note number="1" values="5" ticks="97" durationTicks="41" ppq="96" velocity="0.685"/>
       <note number="2" values="6" ticks="144" durationTicks="93" ppq="96" velocity="0.748"/>
@@ -97,7 +97,7 @@
     <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
-    <video name="18.mp4" size="1866504" type="video/mp4" volume="0.5">fae8402f25d3fd3ff029128fc4806b49be0733017bf776a3029d86fb17d5880f</video>
+    <video name="37.mp4" size="2035405" type="video/mp4" volume="0.5">56e15cf214e6477b3a1560be80e8368f3430d45fec5528896b0c04099c93a133</video>
     <notes>
       <note number="1" values="5" ticks="241" durationTicks="47" ppq="96" velocity="0.8"/>
       <note number="2" values="6" ticks="288" durationTicks="141" ppq="96" velocity="0.8"/>
@@ -111,7 +111,7 @@
     <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
-    <video name="19t.mp4" size="1348049" type="video/mp4" volume="0.5">6d95f63c4acd6c5506bffb93718585dd2e2ed6a1ba2a92a2e7af5f94eb4bb447</video>
+    <video name="38t.mp4" size="1504970" type="video/mp4" volume="0.5">897d1baeb3c62775291f5a0eb0f5171a5f28891cc7ccabfbfcce8508d806ea9f</video>
     <notes>
       <note number="1" values="5" ticks="112" durationTicks="41" ppq="96" velocity="0.669"/>
       <note number="2" values="6" ticks="162" durationTicks="83" ppq="96" velocity="0.803"/>
