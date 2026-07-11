@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>trava4</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="Fistachka" repo="trava3"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="Fistachka" repo="shapoklyak"/>
   <readme>
-    <ru>dddbcde32bc28547bdd3a8362df3a76c4faadddd7df1d45630fe71520a070af0</ru>
-    <en>33889753e019b0e680ce24d8cd20792e1c25cca13a228b4bc93d5ab64784932b</en>
+    <ru>d0b7e1e08e41f4425b5777e97f33e3d55ecc5b6fb7614a371d9decf00479dd4e</ru>
+    <en>edf2996ad4f507dcd0b14f7957f63753b10c6d7f57ba6ce7394a805a8b5dad97</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
