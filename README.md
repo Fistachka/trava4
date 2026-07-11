@@ -34,9 +34,9 @@ stolbitsa.com/fistachka/trava<br><br>
 
 
 
-![8]https://github.com/user-attachments/assets/585ecc7e-1b91-4deb-bde9-5074c3773114)
+![8](https://github.com/user-attachments/assets/585ecc7e-1b91-4deb-bde9-5074c3773114)
 
-![7]https://github.com/user-attachments/assets/12b304e3-1b8d-4239-874a-479f47c13837)
+![7](https://github.com/user-attachments/assets/12b304e3-1b8d-4239-874a-479f47c13837)
 
 
 
